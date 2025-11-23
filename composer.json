@@ -1,0 +1,7 @@
+{
+  "name": "cres/election-system",
+  "description": "Class Representative Election System",
+  "require": {
+    "tecnickcom/tcpdf": "^6.7"
+  }
+}
